@@ -12,4 +12,12 @@
 #include "dio.h"
 void Segment_init(void);
 void SevenSeg_Num(uint8 num);
+
+
+extern Port_Def* PORTA ;
+extern Port_Def* PORTB ;
+extern Port_Def* PORTC ;
+extern Port_Def* PORTD ;
+
+
 #endif /* SEV_SEG_H_ */

@@ -38,6 +38,12 @@ typedef struct
 
 
 
+extern Port_Def* PORTA ;
+extern Port_Def* PORTB ;
+extern Port_Def* PORTC ;
+extern Port_Def* PORTD ;
+
+
 
 /*******************************************************************************
  *                      Function Prototypes                                    *
