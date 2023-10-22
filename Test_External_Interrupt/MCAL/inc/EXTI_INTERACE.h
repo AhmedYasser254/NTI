@@ -1,10 +1,14 @@
-/*
- * EXTI_INTERACE.h
+/******************************************************************************
  *
- *  Created on: Oct 22, 2023
- *      Author: Ahmed Yasser
- */
-
+ * Module: EXTI
+ *
+ * File Name: EXTI_INTERFACE.h
+ *
+ * Description: Header file for the AVR External interrput driver ATMEGA32
+ *
+ * Author: Ahmed Yasser
+ *
+ *******************************************************************************/
 #ifndef EXTI_INTERACE_H_
 #define EXTI_INTERACE_H_
 

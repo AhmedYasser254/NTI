@@ -1,9 +1,14 @@
-/*
- * EXTI_Private.h
+/******************************************************************************
  *
- *  Created on: Oct 22, 2023
- *      Author: Ahmed Yasser
- */
+ * Module: EXTI
+ *
+ * File Name: EXTI_Private.h
+ *
+ * Description: Header file for the AVR External interrupt driver ATMEGA32
+ *
+ * Author: Ahmed Yasser
+ *
+ *******************************************************************************/
 
 #ifndef EXTI_PRIVATE_H_
 #define EXTI_PRIVATE_H_

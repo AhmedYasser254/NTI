@@ -1,9 +1,14 @@
-/*
- * EXTI_INTERACE.c
+/******************************************************************************
  *
- *  Created on: Oct 22, 2023
- *      Author: Ahmed Yasser
- */
+ * Module: EXTI
+ *
+ * File Name: EXTI_INTERFACE.c
+ *
+ * Description: Source file for the AVR External interrupt driver ATMEGA32
+ *
+ * Author: Ahmed Yasser
+ *
+ *******************************************************************************/
 #include "EXTI_Private.h"
 
 #include "EXTI_INTERACE.h"

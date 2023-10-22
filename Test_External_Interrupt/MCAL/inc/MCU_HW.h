@@ -1,9 +1,13 @@
-/*
- * MCU_HW.h
+/******************************************************************************
  *
- *  Created on: Oct 22, 2023
- *      Author: Ahmed Yasser
- */
+ *
+ * File Name: MCU_HW.h
+ *
+ * Description: Header file for the AVR HW Registers and instances ATMEGA32
+ *
+ * Author: Ahmed Yasser
+ *
+ *******************************************************************************/
 
 #ifndef MCU_HW_H_
 #define MCU_HW_H_

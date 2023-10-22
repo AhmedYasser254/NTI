@@ -1,11 +1,15 @@
 /*
- * GIC.c
+/******************************************************************************
  *
- *  Created on: Oct 22, 2023
- *      Author: Ahmed Yasser
- */
-
-
+ * Module: GIC
+ *
+ * File Name: GIC.c
+ *
+ * Description: Source file for the AVR General interrupt driver ATMEGA32
+ *
+ * Author: Ahmed Yasser
+ *
+ *******************************************************************************/
 #include "GIC.h"
 
 
