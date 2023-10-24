@@ -14,10 +14,12 @@
 
 
 
+
 void Start_App() {
 
-	setvbuf(stdout, NULL, _IONBF, 0);
 
+	setvbuf(stdout, NULL, _IONBF, 0);
+printf("======Welcome To Nti Student Data Base System ======\n")
     List_t studentList;
     ErrorState_t result = List_init(&studentList);
 
@@ -26,6 +28,7 @@ void Start_App() {
 
         while (1) {
             int choice;
+
             printf("\nMenu:\n");
             printf("1. Add a student\n");
             printf("2. Search for a student\n");
