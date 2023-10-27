@@ -22,7 +22,6 @@
 #include "Button.h"
 #include "ADC_INTERFACE.h"
 
-char d [] = "Tezk 7mra";
 
 /*
  * Call Back Function For Toggle the choosing led which is yellow led
